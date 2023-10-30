@@ -3,7 +3,7 @@
 <div align="center"> 
 <a href="https://www.figma.com/file/AsyqBSFvNkSN8ZIIzuKlQ2/Cl%C3%ADnica-Est%C3%A9tica?type=design&t=1ZkGzKG2SFcM01Rr-6" target="_blank"><img src="https://img.shields.io/badge/-figma-%23E4405F?style=for-the-badge&logo=figma&logoColor=white"
 style="border-radius: 4px"</a>
-<a href = "https://drive.google.com/drive/folders/1XUSfrSd561TWogkcoHpNpr64Xzq9lYGB"> <img src="https://img.shields.io/badge/-Certificados-%23333?style=for-the-badge&logo=gravacoo&logoColor=white" target="_blank" style="border-radius: 4px"></a>
+<a href = "Certificados SkillsBuild - IBM"> <img src="https://img.shields.io/badge/-Certificados-%23333?style=for-the-badge&logo=gravacoo&logoColor=white" target="_blank" style="border-radius: 4px"></a>
 <a href="https://drive.google.com/drive/folders/1XUSfrSd561TWogkcoHpNpr64Xzq9lYGB" target="_blank"><img src="https://img.shields.io/badge/-gravação-%230077B5?style=for-the-badge&logo=certificados&logoColor=white" style="border-radius: 4px" target="_blank"></a>
  </div>
   
